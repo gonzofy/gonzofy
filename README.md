@@ -2,6 +2,10 @@
 
 Co-Founder, [Salsify](https://www.salsify.com/). For the last bunch of years I've been leading the marketing team and other go-to-market functions and haven't been able to code much. I miss it. I do little projects on the side from time to time to scratch the itch.
 
+## Getting in Touch
+
+DM on [LinkedIn](https://www.linkedin.com/in/robgonzalez/) is, sadly, the easiest way to contact me these days.
+
 
 # Side Projects
 
@@ -18,9 +22,9 @@ I've built a handful of sites on Jekyll, hosted on S3, and would like to do more
 
 ## A Note on PHP
 
-Kindof a funny story: I'm not really into PHP (no judgement, just not my preference), but in 2013 or 2014 I built a Magento plugin for Salsify and couldn't find a JSON parser in PHP suitable for very large JSON files, so I [wrote on](https://github.com/salsify/jsonstreamingparser). It has over 600 stars and is, ironically, the most popular, widely used code I've ever written.
+Kindof a funny story: I'm not really into PHP (no judgement, just not my preference), but in 2013 or 2014 I built a Magento plugin for Salsify and couldn't find a JSON parser in PHP suitable for very large JSON files, so I [wrote one](https://github.com/salsify/jsonstreamingparser). It has over 600 stars and is, ironically, the most popular, widely used code I've ever written.
 
 
 # Linux Fan
 
-I used Linux (Debian) as my primary OS from late 90s until 2012 (aside: thank you VMWare for making that possible in a professional setting), when I switched to OSX for most of the 2010s. I'm back on Linux (Manjaro) as my daily driver (wow Linux has come a long way!), but still use OSX and Windows 10 here and there.
+I used Linux (Debian) as my primary OS from late 90s until 2012 (aside: thank you VMware for making that possible in a professional setting back then), when I switched to OSX for most of the 2010s. I'm back on Linux (Manjaro) as my daily driver (wow Linux has come a long way!), but still use OSX and Windows 10 here and there.
