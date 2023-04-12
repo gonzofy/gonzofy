@@ -4,17 +4,19 @@ Co-Founder, [Salsify](https://www.salsify.com/). For the last bunch of years I'v
 
 ## Getting in Touch
 
-DM on [LinkedIn](https://www.linkedin.com/in/robgonzalez/) is, sadly, the easiest way to contact me these days.
+DM on [LinkedIn](https://www.linkedin.com/in/robgonzalez/) is the easiest way to contact me these days.
 
 
 # Side Projects
 
-I use Excel and/or LibreOffice Calc all the time and have a crazy number of docs in .xlsx. We have a bunch of Ruby scripts at Salsify that manipulate (or create, some of the file creation from data in data pools in so cool) large amounts of data in the context of xlsx docs, and I'm mucking around with Python versions to dip my toes in the Python world for the first time.
+I use Excel and/or LibreOffice Calc all the time and have a crazy number of docs in .xlsx. We have a bunch of Ruby scripts at Salsify that manipulate (or create, some of the file creation from data in data pools in so cool) large amounts of data in the context of xlsx docs.
+
+As a hobby I've been learning Common Lisp and Elisp.
 
 
 # Programming
 
-[Salsify](https://www.salsify.com/) is primarily a Ruby + Javascript shop (though is diversifying more these days), and at IBM and Endeca I was mostly using Java. In the 90s I cut my teeth on C, and in college I loved ML and Lisp (this is before Scheme became hugely popular). So I can hack around and do damage in a wide variety of languages, but I'm unfortunately not expert in any of them.
+[Salsify](https://www.salsify.com/) is primarily a Ruby + Javascript shop (though is diversifying more these days), and at IBM and Endeca I was mostly using Java. In the 90s I cut my teeth on C, and in college I loved ML and Lisp. So I can hack around and do damage in a wide variety of languages, but I'm unfortunately not expert in any of them.
 
 ## JAMstack
 
@@ -27,4 +29,4 @@ Kindof a funny story: I'm not really into PHP (no judgement, just not my prefere
 
 # Linux Fan
 
-I used Linux (Debian) as my primary OS from late 90s until 2012 (aside: thank you VMware for making that possible in a professional setting back then), when I switched to OSX for most of the 2010s. I'm back on Linux (Manjaro) as my daily driver (wow Linux has come a long way!), but still use OSX and Windows 10 here and there.
+I used Linux (Debian) as my primary OS from late 90s until 2012 (aside: thank you VMware for making that possible in a professional setting back then), when I switched to OSX for most of the 2010s. I'm back on Linux (Manjaro) as my daily driver (wow Linux has come a long way!).
